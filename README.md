@@ -16,3 +16,4 @@ This is a simple To-Do List application built using React and Vite.
 
 ```bash
 git clone https://github.com/siddivignesh/react-todo-app
+![Screenshot](./assets/Screenshotinternshala.png)
